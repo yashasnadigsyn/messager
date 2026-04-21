@@ -85,6 +85,9 @@ Contributions are welcome! This is a fun, open-source project — no revenue goa
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## Vibecode
+This app is vibecoded with Kimi K2.6.
+
 ## License
 
 ![MIT](LICENSE)
