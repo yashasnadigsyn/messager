@@ -26,7 +26,7 @@ A sleek, open-source AI chat app built with Flutter. Chat with local models (Lit
 
 ## Screenshots
 
-<img src="screenshot1.png" width="300" height="500"> <img src="screenshot2.png" width="300" height="200"> <img src="screenshot3.png" width="300" height="200">
+<img src="screenshot1.png" width="300" height="600"> <img src="screenshot2.png" width="300" height="600"> <img src="screenshot3.png" width="300" height="600">
 
 ## Getting Started
 
